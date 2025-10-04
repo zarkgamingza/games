@@ -1,0 +1,158 @@
+{
+    "WBUI2":
+    {
+        "settings":
+        {
+            "openbutton": 0,
+            "hideicon": true,
+            "hideiconafter": 60,
+            "iconurl": "",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 1
+        },
+        "tabs": [
+            {
+                "layout": 1,
+                "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Welcome to ZARKGaming!",
+                        "text": "Oi, Survivors!
+Welcome to the ZARK Gaming Club, a family-friendly, dino-taming, base-building, poop-collecting paradise in the heart of South Africa!
+    
+We're absolutely raptor-ous to have you here. Our mission? Deliver the ultimate PvE experience without the griefers, chaos, or surprise T-Rex in your living room (unless you wanted one there).
+To keep the island drama-free and the dinos happy, we've got a few house rules... nothing too wild, just enough to keep things civil while you ride your dino into the sunset.
+Take a minute (yes, even you with the itchy 'punch everything' finger) to read rules 1 to 3 above. Still confused? Need a hug? Or just want to tattle on someone who named their dodo 'Thanos'? An Admin is just a Discord ticket away (coming soon).
+    
+Server stats you actually want to read (Yes, really):
+Welcome to a server so boosted, even your pickaxe's pickaxe is getting a raise! Here’s what you're working with:
+    
+- Head on over to https://www.zarkgaming.co.za/ to see all our gaming clusters
+- EXPERIMENTAL : We've introduced an AI into our helpdesk, checkout #ai-helpdesk and remember - be gentle :D
+- 10x Harvesting Rates : One swing and BOOM: you've got enough wood to build a small village (or an unnecessarily large toilet).
+- 220 Max Wild Dino Limit : More dinos than you can poke with a tranq arrow. Tame wisely. Or don't. We like chaos.
+- 21 Mods, Featuring all the fan favorites:
+- CyberStructures : Because vanilla building is for cavemen.
+- RR-Home Deko : Fancy up your thatch shack.
+- QoL Mods : For all the quality-of-lifers out there.
+
+And more goodies we're too lazy to list but you'll definitely thank us for later.
+    
+So get out there – tame it, build it, explore it... or get eaten trying."
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "Rules 1 of 2",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Rules Page 1",
+                        "text": "- Be respectful: Any harassment, hate speech, toxic behavior or prejudiced comments of any kind, including sexism, racism, ageism, or homophobia / are not allowed.
+- No griefing: This includes, but not limited to foundation spamming, blocking resources, or trolling players.
+- No cheating: No exploiting glitches, bugs, or unintended mechanics.
+- Keep it clean: Tribe, player, dino & Steam names must follow PEGI 12 / ESRB Teen standards. We recommend keeping your in-game and Discord name the same. No duplicate player names / first come, first serve.
+- Keep it fair: Helping new players is welcome, but don’t spoil the game. No giving away high-level gear or dinos (e.g. Argy or higher). Giving OP dinos (250+ stats) may lead to a wipe or ban. Fair trades only.
+- Keep it consistent: Keep tribe names the same across the cluster, this is to help you in the event of a character corruption or any restore functions.
+- Build away from all key locations (e.g., obelisks, caves with artifacts, rare resource spawns and character spawns)
+- One main base per tribe, plus one outpost (e.g., farming or taming base).
+- No excessive land claiming, structures that go unused will be removed by Admins.
+- Keep bases optimized, limit unnecessary spam structures to reduce lag.
+- Do not build Vacuum Pods, they cause lag, map & character corruption (these will be removed by Admins without warning).
+- Do not block or cage high-level wild creatures for extended periods.
+- Keep breeding reasonable because it causes excessive dino hoarding and lag.
+- Any unwanted dinos should be responsibly disposed of.
+- Do not block or monopolize high-value resources (metal, crystal, oil, etc.).
+- No killing passive creatures that belong to other players.
+- Be mindful of community areas (such as teleporters, marketplaces, or public utilities).
+                        
+These are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "Rules 2 of 2",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Rules Page 2",
+                        "text": "- Trade fairly, avoid sharing high-value items with new players.
+- Help new players by offering guidance, not just free items.
+- Report any exploits to Admins.
+- Respect Admin decisions, do not spam complaints or harass staff.
+- Support is offered on a best-effort-basis. Our Admins typically work during the day, but will be able to assist in the evenings or weekends.
+- Use the Discord ticket system (#tickets) for issues and bug reports.
+- Cheating, exploiting, or abusing mechanics will result in immediate action.
+- No AFK farming, excessive auto-clicking, or macro abuse.
+- Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
+- Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.
+- This server utilizes a sophisticated transfer system. Use '/upload' or '/download' to safely upload or download all items on your character.
+                        
+These are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
+                    }
+                ]
+            },
+            {
+                "layout": 4,
+                "buttontext": "Cluster Configration",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.White>Maps</>",
+                        "text": "This Cluster is currently equipped with 7x Maps:
+ 
+ - Aberration
+ - Astraeos
+ - Extinction
+ - Ragnarok
+ - Scorched Earth
+ - The Center
+ - The Island"
+                    },
+                    {
+                        "title": "<TextStyle.Green>Auto-Decay System</>",
+                        "text": "This cluster has auto-decay timers on all structures and tamed dinosaurs, currently aligned with Ark Official Rules:
+ 
+ - Thatch : 4 days
+ - Wood & Adobe : 8 Days
+ - Stone : 12 days
+ - Metal : 16 days
+ - Vault: 16 days
+ - Tek : 20-80 days"
+                    },
+                    {
+                        "title": "<TextStyle.Yellow>News</>",
+                        "text": "- Scheduled daily restart at 04:00 - 05:00
+                        - See #live-status Discord channel for server status"
+                    },
+                    {
+                        "title": "<TextStyle.Red>Emergency Notices</>",
+                        "text": "- None"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Join our Discord",
+                "url": "https://discord.com/invite/TTf4zx9"
+            },
+            {
+                "text": "Open a ticket",
+                "url": "https://discord.com/channels/707280164664639558/852267257908428820"
+            },
+            {
+                "text": "Active Events",
+                "url": "https://discord.com/channels/707280164664639558/814603962946420746"
+            }
+        ],
+        "version": 2
+    }
+}

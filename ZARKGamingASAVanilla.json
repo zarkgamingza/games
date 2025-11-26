@@ -23,27 +23,21 @@
                     {
                         "title": "Welcome to ZARKGaming!",
                         "text": "Oi, Survivors!
-Welcome to the ZARK Gaming Club, a family-friendly, dino-taming, base-building, poop-collecting paradise in the heart of South Africa!
-    
-We're absolutely raptor-ous to have you here. Our mission? Deliver the ultimate PvE experience without the griefers, chaos, or surprise T-Rex in your living room (unless you wanted one there).
-To keep the island drama-free and the dinos happy, we've got a few house rules... nothing too wild, just enough to keep things civil while you ride your dino into the sunset.
-Take a minute (yes, even you with the itchy 'punch everything' finger) to read rules 1 to 3 above. Still confused? Need a hug? Or just want to tattle on someone who named their dodo 'Thanos'? An Admin is just a Discord ticket away (coming soon).
-    
-Server stats you actually want to read (Yes, really!):
-Welcome to a server so boosted, even your pickaxe's pickaxe is getting a raise! Here’s what you're working with:
-    
-- Head on over to https://www.zarkgaming.co.za/ to see all our gaming clusters
-- EXPERIMENTAL : We've introduced an AI into our helpdesk, checkout #ai-helpdesk and remember - be gentle :D
-- 10x Harvesting Rates : One swing and BOOM: you've got enough wood to build a small village (or an unnecessarily large toilet).
-- 220 Max Wild Dino Limit : More dinos than you can poke with a tranq arrow. Tame wisely. Or don't. We like chaos.
-- 21 Mods, Featuring all the fan favorites:
-- CyberStructures : Because vanilla building is for cavemen.
-- RR-Home Deko : Fancy up your thatch shack.
-- QoL Mods : For all the quality-of-lifers out there.
+Welcome to the ZARK Gaming Club — a family-friendly corner of South Africa where the dinos roam free, the bases grow tall, and everyone pretends they didn’t pick up that piece of poop on purpose.
 
-And more goodies we're too lazy to list but you'll definitely thank us for later.
-    
-So get out there – tame it, build it, explore it... or get eaten trying."
+This cluster is our clean-slate, no-frills, pure Ark Survival Ascended experience. No mods. No shortcuts. Just you, your wits, and whatever that noise was behind the nearest bush. We’re running things at 3x rates to keep the grind reasonable without turning your pickaxe into a space laser.
+
+As always, the goal is simple: create a chilled, cooperative PvE space without the drama, the griefing, or the random brontos tap-dancing on your roof at 3 a.m. (we can’t stop the brontos, but we can dream).
+Before you run off to punch a tree, skim the rules above. They keep the island peaceful and the community wonderfully un-chaotic. If something’s unclear, weird, or just plain suspicious — like someone naming their parasaur “Jeff” for the fourth time — our Admin team is a Discord ticket away.
+
+A few details to get you started:
+
+• Check out all our gaming clusters at https://www.zarkgaming.co.za/
+• This cluster runs Vanilla Ark SA, no mods at all — just pure survival.
+• 3x Rates across the board — fast enough to be fun, grounded enough to feel like Ark.
+• Wild dinos spawn up to 220, so keep your head on a swivel and your tranq arrows stocked.
+
+Now get out there — tame it, build it, explore it… or be enthusiastically eaten by something with too many teeth. Either way, welcome aboard.
                     }
                 ]
             },
@@ -92,7 +86,7 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
 - Cheating, exploiting, or abusing mechanics will result in immediate action.
 - No AFK farming, excessive auto-clicking, or macro abuse.
 - Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
-- Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.
+- Dino Breeding farms must be supervised or Dinos cryo'ed to avoid lag.
 - This server utilizes a sophisticated transfer system. Use '/upload' or '/download' to safely upload or download all items on your character.
                         
 These are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
@@ -135,7 +129,7 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
                     },
                     {
                         "title": "<TextStyle.Red>Emergency Notices</>",
-                        "text": "- Upcoming name change to Servers. See #zark-gaming-updates on Discord for more details."
+                        "text": "- None"
                     }
                 ]
             }

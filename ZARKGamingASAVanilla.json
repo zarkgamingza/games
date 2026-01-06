@@ -102,7 +102,7 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
                 "content": [
                     {
                         "title": "<TextStyle.White>Maps</>",
-                        "text": "This Cluster is currently equipped with 8x Maps:
+                        "text": "This Cluster is currently equipped with 9x Maps:
  
  - Aberration
  - Astraeos
@@ -111,7 +111,8 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
  - Scorched Earth
  - The Center
  - The Island
- - Valguero"
+ - Valguero
+ - Lost Colony"
                     },
                     {
                         "title": "<TextStyle.Green>Auto-Decay System</>",
@@ -131,7 +132,7 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
                     },
                     {
                         "title": "<TextStyle.Red>Emergency Notices</>",
-                        "text": "- None."
+                        "text": "- None"
                     }
                 ]
             }

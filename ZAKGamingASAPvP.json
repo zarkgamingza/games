@@ -1,0 +1,89 @@
+{
+    "WBUI2": {
+        "settings": {
+            "openbutton": 0,
+            "hideicon": true,
+            "hideiconafter": 60,
+            "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+            "disableicontext": false,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 1
+        },
+        "tabs": [
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"0,1,0,1\">Welcome</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "Welcome!",
+                        "text": "Welcome, Survivor.\n\nYou’ve landed on the ZARK Gaming PvP Cluster, where the daytime is for building empires and the evening is for trying to burn someone else’s down.\n\nThis server is built for fast progression and competitive PvP without the endless grind.\n\nServer Highlights:\n\n- 10x XP, Harvesting, Taming and Breeding\n- Daily PvPvE Cycle\n- Seasonal Map Rotation\n- Element can appear in supply drops\n- Quality-of-life mods for better building and automation\n\nSpend the day building your base and raising dinos...Spend the night defending it."
+                    },
+                    {
+                        "title": "Server Rates",
+                        "text": "To keep the action flowing, this server runs 10x progression rates.\n\n- XP: 10x\n- Harvesting: 10x\n- Taming: 10x\n- Breeding: 10x\n\nThis means less grinding rocks for three hours and more time doing what Ark players truly love:\n\nBuilding ridiculous bases, breeding terrifying war dinos, and arguing with their tribe about who left the gate open."
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "<RichColor Color=\"1,1,0,1\">PvPvE</>",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
+                "content": [
+                    {
+                        "title": "PvE Time",
+                        "text": "Every day from 00:00 to 18:00 the server runs in PvE Mode.\n\nDuring this time:\n\n- Structures cannot be damaged\n- Raiding is disabled\n- Focus on farming, building and breeding\n- Prepare your base for PvP hours\n\nThink of it as preparation time before the nightly chaos begins.\n\nUse it wisely."
+                    },
+                    {
+                        "title": "PvP Time",
+                        "text": "From 18:00 to 24:00 the island becomes a warzone.\n\nDuring PvP time:\n\n- Base raiding is allowed\n- Structure damage is enabled\n- Combat is unrestricted\n- There are no gameplay rules\n\nIf you can destroy it, steal it, or blow it up - it’s fair game.\n\nSurvival of the smartest tribe."
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "Server Info (1 of 2)",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Map Cycle 2026",
+                        "text": "To keep the cluster fresh and competitive, maps rotate during the year.\n\nApril - June\nRagnarok\n\nJuly - September\nFjordur\n\nSeptember - December\nGenesis Part 2\n\nEach new map brings new strategies, new bases, and new wars.\n\nWhen the map rotates, everyone starts fresh."
+                    },
+                    {
+                        "title": "Supply Drops",
+                        "text": "Supply drops have been enhanced.\n\nYou may occasionally find Element inside supply crates along with other valuable loot.\n\nKeep an eye on the sky - those glowing beams might change your entire war plan."
+                    }
+                ]
+            },
+            {
+                "layout": 2,
+                "buttontext": "Server Info (2 of 2)",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "Mods",
+                        "text": "This server runs a small set of quality-of-life mods to improve gameplay without breaking balance.\n\nCybers Structures QoL+\nAdvanced building system with improved structures and utilities.\n\nAutomated Ark\nAutomation tools for crafting, resource management and base organization.\n\nReusable Plus\nReusable tools like grapples, parachutes and bolas."
+                    },
+                    {
+                        "title": "Discord",
+                        "text": "Join our Discord to stay updated with:\n\n- Server announcements\n- Map wipe schedules\n- Events and PvP tournaments\n- Support tickets\n\nDiscord link below"
+                    }
+                ]
+            }
+        ],
+        "links": [
+            {
+                "text": "Join our Discord",
+                "url": "https://discord.com/invite/TTf4zx9"
+            },
+            {
+                "text": "Open a ticket",
+                "url": "https://discord.com/channels/707280164664639558/852267257908428820"
+            }
+        ],
+        "version": 2
+    }
+}

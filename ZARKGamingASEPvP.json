@@ -78,7 +78,7 @@ Server Highlights:
 
 Spend the day building your base and raising dinos...Spend the night defending it.
 ",
-        "Tab2Text1":"To keep the action flowing, this server runs 10x progression rates.
+        "Tab1Text2":"To keep the action flowing, this server runs 10x progression rates.
 
 - XP: 10x
 - Harvesting: 10x
@@ -89,20 +89,40 @@ This means less grinding rocks for three hours and more time doing what Ark play
 
 Building ridiculous bases, breeding terrifying war dinos, and arguing with their tribe about who left the gate open.
 ",
+		"Tab1Text3":"- Tab1Text3
+",
+		"Tab1Text4":"- Tab4Text4
+",
+		"Tab2Text1":"- Tab2Text1
+",
 		"Tab2Text2":"- Tab2Text2
 ",
 		"Tab2Text3":"- Tab2Text3
 ",
 		"Tab2Text4":"- Tab2Text4
 ",
-		"Tab3ext1":"- Tab3Text1
+		"Tab3Text1":"- Tab3Text1
 ",
-        "Tab3Text2":"- Tab3Text2
+		"Tab3Text2":"- Tab3Text2
 ",
 		"Tab3Text3":"- Tab3Text3
 ",
 		"Tab3Text4":"- Tab3Text4
 ",
-        "Tab4Text1":"- Tab4Text4
+		"Tab4Text1":"- Tab4Text1
+",
+		"Tab4Text2":"- Tab4Text2
+",
+		"Tab4Text3":"- Tab4Text3
+",
+		"Tab4Text4":"- Tab4Text4
+",
+		"Tab5Text1":"- Tab5Text1
+",
+		"Tab5Text2":"- Tab5Text2
+",
+		"Tab5Text3":"- Tab5Text3
+",
+		"Tab5Text4":"- Tab5Text4
 "
         }

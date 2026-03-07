@@ -125,9 +125,8 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
  - Thatch : 4 days
  - Wood & Adobe : 8 Days
  - Stone : 12 days
- - Metal : 16 days
- - Vault: 16 days
- - Tek : 20-80 days"
+ - Metal, Greenhouse & Vaults : 16 days
+  - Tek : 20-80 days"
                     },
                     {
                         "title": "<TextStyle.Yellow>News</>",

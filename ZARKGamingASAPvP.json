@@ -20,11 +20,11 @@
                 "content": [
                     {
                         "title": "Welcome!",
-                        "text": "Welcome, Survivor.\n\nYou’ve landed on the ZARK Gaming PvP Cluster, where the daytime is for building empires and the evening is for trying to burn someone else’s down.\n\nThis server is built for fast progression and competitive PvP without the endless grind.\n\nServer Highlights:\n\n- 10x XP, Harvesting, Taming and Breeding\n- Daily PvPvE Cycle\n- Seasonal Map Rotation\n- Element can appear in supply drops\n- Quality-of-life mods for better building and automation\n- Bases and Dinos will not decay\n\nSpend the day building your base and raising dinos...Spend the night defending it."
+                        "text": "Welcome, Survivor.\n\nYou’ve landed on the ZARK Gaming PvP Cluster, where the daytime is for building empires and the evening is for trying to burn someone else’s down.\n\nThis server is built for fast progression and competitive PvP without the endless grind.\n\nServer Highlights:\n\n- 10x XP, Harvesting, Taming and Breeding\n- Daily PvPvE Cycle\n- Seasonal Map Rotation\n- Element can appear in supply drops\n- Quality-of-life mods for better building and automation\n\nSpend the day building your base and raising dinos...Spend the night defending it."
                     },
                     {
                         "title": "Server Rates",
-                        "text": "To keep the action flowing, this server runs 10x progression rates.\n\n- XP: 10x\n- Harvesting: 10x\n- Taming: 10x\n- Breeding: 10x\n\nThis means less grinding rocks for three hours and more time doing what Ark players truly love:\n\nBuilding ridiculous bases, breeding terrifying war dinos, and arguing with their tribe about who left the gate open."
+                        "text": "To keep the action flowing, this server runs 10x progression rates.\n\n- XP: 10x\n- Harvesting: 10x\n- Taming: 10x\n- Breeding: 10x\n- Bases and Dinos will not decay\n\nThis means less grinding rocks for three hours and more time doing what Ark players truly love:\n\nBuilding ridiculous bases, breeding terrifying war dinos, and arguing with their tribe about who left the gate open."
                     }
                 ]
             },
@@ -46,7 +46,7 @@
             {
                 "layout": 2,
                 "buttontext": "Server Info (1 of 2)",
-                "imageurl": "",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Map Cycle 2026",
@@ -61,7 +61,7 @@
             {
                 "layout": 2,
                 "buttontext": "Server Info (2 of 2)",
-                "imageurl": "",
+                "imageurl": "https://i.imgur.com/mGt3cAF.png",
                 "content": [
                     {
                         "title": "Mods",

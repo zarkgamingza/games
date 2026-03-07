@@ -2,9 +2,9 @@
 	{
         "ServerName":"ZARK Gaming",
         "ButtonTxt1":"Welcome",
-        "ButtonTxt2":"Server Info",
-        "ButtonTxt3":"",
-        "ButtonTxt4":"",
+        "ButtonTxt2":"PvPvE",
+        "ButtonTxt3":"Server Info (1 of 2)",
+        "ButtonTxt4":"Server Info (2 of 2)",
         "ButtonTxt5":"",
         "LinkButtonTxt1":"Join our Discord",
         "LinkButtonTxt2":"Open a ticket",

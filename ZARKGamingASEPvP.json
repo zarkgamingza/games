@@ -25,7 +25,7 @@
         "Link2Button5":"",
         "Link3Button5":"",
         "Link4Button5":"",
-        "Tab1Panelcount":4,
+        "Tab1Panelcount":1,
         "Tab2Panelcount":4,
         "Tab3Panelcount":4,
         "Tab4Panelcount":4,
@@ -43,16 +43,16 @@
         "UseSteamBrowserLink1":false,
         "UseSteamBrowserLink2":false,
         "Tab1Title1":"Welcome",
-        "Tab1Title2":"Server Rates",
-        "Tab1Title3":"PvE Time",
-        "Tab1Title4":"PvP Time",
-        "Tab2Title1":"Map Cycle 2026",
-        "Tab2Title2":"Supply Drops",
-        "Tab2Title3":"Mods",
-        "Tab2Title4":"Discord",
-        "Tab3Title2":"",
-        "Tab3Title3":"",
-        "Tab4Title1":"",
+        "Tab1Title2":"",
+        "Tab1Title3":"",
+        "Tab1Title4":"",
+        "Tab2Title1":"Server Rates",
+        "Tab2Title2":"PvE Time",
+        "Tab2Title3":"PvP Time",
+        "Tab2Title4":"Map Cycle 2026",
+        "Tab3Title2":"Supply Drops",
+        "Tab3Title3":"Mods",
+        "Tab4Title1":"Discord",
         "Tab4Title2":"",
         "Tab4Title3":"",
         "Tab5Title1":"",
@@ -74,7 +74,7 @@ Server Highlights:
 
 Spend the day building your base and raising dinos...Spend the night defending it.
 ",
-        "Tab1Text2":"To keep the action flowing, this server runs 10x progression rates.
+        "Tab2Text1":"To keep the action flowing, this server runs 10x progression rates.
 
 - XP: 10x
 - Harvesting: 10x
@@ -85,19 +85,20 @@ This means less grinding rocks for three hours and more time doing what Ark play
 
 Building ridiculous bases, breeding terrifying war dinos, and arguing with their tribe about who left the gate open.
 ",
-		"Tab1Text2":"- Tab1Text2
-",
-		"Tab1Text3":"- Tab1Text3
-",
-		"Tab1Text4":"- Tab1Text4
-",
-		"Tab2Text1":"- Tab2Text1
-",
-        "Tab2Text2":"- Tab2Text2
+		"Tab2Text2":"- Tab2Text2
 ",
 		"Tab2Text3":"- Tab2Text3
 ",
 		"Tab2Text4":"- Tab2Text4
 ",
-        "Tab3Text1":""
+		"Tab3ext1":"- Tab3Text1
+",
+        "Tab3Text2":"- Tab3Text2
+",
+		"Tab3Text3":"- Tab3Text3
+",
+		"Tab3Text4":"- Tab3Text4
+",
+        "Tab4Text1":"- Tab4Text4
+"
         }

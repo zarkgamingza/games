@@ -3,14 +3,12 @@
 Welcome to the **ZARK Gaming Community** repository!
 This repo houses configuration files and settings for our **multi-game cluster**, so members can stay synced and admins can easily manage the servers.
 
-## 🎮 Games on the Cluster
+## 🎮 Games on the Clusters
 
 * **Ark: Survival Evolved**
-* **Ark: Survival Ascended**
-* **Minecraft (Java Edition)**
+* **Ark: Survival Ascended (Modded & Vanilla)**
+* **Insurgency Sandstorm**
 * **The Isle: Evrima**
-
-Each game has its own directory in this repo containing relevant configs, tweaks, and server details.
 
 ## ⚡ Purpose
 

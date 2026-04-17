@@ -63,7 +63,7 @@
                     },
                     {
                         "title": "<TextStyle.Yellow>News</>",
-                        "text": "- Scheduled daily restart at 04:00 - 05:00\n- Easter Event `Eggcellent` is running between 2-16 April 2026\n- See #live-status Discord channel for server status"
+                        "text": "- Scheduled daily restart at 04:00 - 05:00"
                     },
                     {
                         "title": "<TextStyle.Red>Emergency Notices</>",

@@ -89,8 +89,7 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
 - No AFK farming, excessive auto-clicking, or macro abuse.
 - Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.
 - Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.
-- This server utilizes a sophisticated transfer system. Use '/upload' or '/download' to safely upload or download all items on your character.
-                        
+
 These are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
                     }
                 ]
@@ -102,7 +101,7 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
                 "content": [
                     {
                         "title": "<TextStyle.White>Maps</>",
-                        "text": "This Cluster is currently equipped with 9x Maps:
+                        "text": "This Cluster is currently equipped with 8x Maps:
  
  - Aberration
  - Astraeos
@@ -112,7 +111,6 @@ These are only the highlights of our rules. See detailed rules at #Rules on our 
  - The Center
  - The Island
  - Valguero
- - Lost Colony"
                     },
                     {
                         "title": "<TextStyle.Green>Auto-Decay System</>",

@@ -1,0 +1,82 @@
+{
+  "WBUI2": {
+    "settings": {
+      "openbutton": 0,
+      "hideicon": true,
+      "hideiconafter": 60,
+      "iconurl": "",
+      "disableicontext": false,
+      "iconposition": 0,
+      "icontextcolor": 0,
+      "openonstart": true,
+      "openonstartonlynewplayers": true,
+      "updateinterval": 1
+    },
+    "tabs": [
+      {
+        "layout": 1,
+        "buttontext": "Start Here",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "Welcome to ZARKGaming!\\nASA 10x Cluster",
+            "text": "This is our high-speed, modded progression cluster built for players who want fast gameplay, powerful tools, and a more relaxed survival experience.\n\nWith boosted rates and a large mod collection, this cluster is designed for quick progression and fun gameplay over long grind.\n\n<RichColor Color=\"1,1,1,1\">Getting Started</>\n• Check the Rules page for basic gameplay expectations\n• Visit the Server Hub for maps, rates, and system information\n• Join our Discord for full rules, support, and updates\n\n<RichColor Color=\"1,1,1,1\">What to Expect</>\n• 10x Harvesting, XP, and Taming rates\n• Fast progression and reduced grind\n• Higher difficulty level\n• Over 20 mods adding new dinos, items, and systems\n• More freedom to build, explore, and experiment\n\n<RichColor Color=\"1,1,1,1\">Important Notes</>\nThis is a heavily modded server. Some systems, items, and gameplay mechanics may differ from vanilla ARK. If something looks new or unusual, it is likely part of a mod.\n\n<RichColor Color=\"1,1,1,1\">A Message From Us</>\nPlay fast, build big, try new things, and enjoy the chaos. This cluster is about fun, creativity, and progression without the grind.\n\nGood luck out there... and watch your back."
+          }
+        ]
+      },
+      {
+        "layout": 2,
+        "buttontext": "Rules (Summary)",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<RichColor Color=\"1,1,1,1\">Cluster Rules</>",
+            "text": "This is a PvE-focused, family-friendly cluster built around fair survival and community gameplay. Full rules are available on our Discord (link below).\n\n<RichColor Color=\"1,1,1,1\">Core PvE Rules</>\nThese are the most important rules while playing:\n• No player killing, raiding, griefing, or stealing\n• No luring wild dinos into other players’ bases\n• Respect other players’ builds and space\n• Do not block spawns, caves, resources, or travel routes\n\n<RichColor Color=\"1,1,1,1\">Fair Play</>\nTo keep progression balanced for everyone:\n• No cheating, exploits, meshing, or bug abuse\n• No handing out end-game gear or high-tier dinos\n• Trading is allowed if it is fair and like-for-like\n• We have an Ark Shop, where you can buy sell and trade\n• Do not bypass intended progression systems\n\n<RichColor Color=\"1,1,1,1\">Building Rules</>\n• Do not pillar or foundation spam land\n• Keep bases reasonable and non-disruptive\n• Always build out of rendering distance from another player's base\n• Remove abandoned or temporary structures when done\n\n"
+          },
+          {
+            "title": "",
+            "text": "<RichColor Color=\"1,1,1,1\">Admin Notice</>\n• Staff decisions are final & rules apply even if not listed here\n• Serious issues are handled via Discord tickets\n\n<RichColor Color=\"1,1,1,1\">Important</>\nThis page is only a quick overview of gameplay expectations.\n\nFull rules are available on our Discord and should be read before long-term play."
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Server Hub",
+        "imageurl": "",
+        "content": [
+          {
+            "title": "<TextStyle.White>Maps</>",
+            "text": "This Cluster is currently equipped with transferable 9x Maps:\n\n• Aberration\n• Astraeos\n• Extinction\n• Lost Colony\n• Ragnarok\n• Scorched Earth\n• The Center\n• The Island\n• Valguero"
+          },
+          {
+            "title": "<TextStyle.White>Auto-Decay System</>",
+            "text": "This cluster has auto-decay timers on all structures and tamed dinosaurs, currently aligned with Ark Official Rules:\n\n• Thatch : 4 days\n• Wood & Adobe : 8 Days\n• Stone : 12 days\n• Metal : 16 days\n• Vault: 16 days\n• Tek : 20-80 days"
+          },
+          {
+            "title": "<TextStyle.White>News</>",
+            "text": "• Scheduled daily restart at 04:00 - 05:00\n• See #live-status Discord channel for server status"
+          },
+          {
+            "title": "<TextStyle.Orange>Emergency Notices</>",
+            "text": "• None"
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "text": "Join our Discord",
+        "url": "https://discord.com/invite/TTf4zx9"
+      },
+      {
+        "text": "Open a ticket",
+        "url": "https://discord.com/channels/707280164664639558/852267257908428820"
+      },
+      {
+        "text": "Active Events",
+        "url": "https://discord.com/channels/707280164664639558/814603962946420746"
+      }
+    ],
+    "version": 2
+  }
+}

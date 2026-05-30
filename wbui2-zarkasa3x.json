@@ -31,7 +31,7 @@
         "content": [
           {
             "title": "<RichColor Color=\"1,1,1,1\">ZARK Gaming Rules</>",
-            "text": "This is a PvE-focused, family-friendly cluster built around fair survival and community gameplay.\n\nFull rules are available on our Discord (link below).\n\n<RichColor Color=\"1,1,1,1\">Core PvE Rules</>\nThese are the most important rules while playing:\n• No player killing, raiding, griefing, or stealing\n• No luring wild dinos into other players’ bases\n• Respect other players’ builds and space\n• Do not block spawns, caves, resources, or travel routes\n\n<RichColor Color=\"1,1,1,1\">Fair Play</>\nTo keep progression balanced for everyone:\n• No cheating, exploits, meshing, or bug abuse\n• No handing out end-game gear or high-tier dinos\n• Trading is allowed if it is fair and like-for-like\n• Do not bypass intended progression systems\n\n<RichColor Color=\"1,1,1,1\">Building Rules</>\n• Do not pillar or foundation spam land\n• Keep bases reasonable and non-disruptive\n• Always build out of rendering distance from another player's base\n• Remove abandoned or temporary structures when done\n\n<RichColor Color=\"1,1,1,1\">Admin Notice</>\n• Staff decisions are final & rules apply even if not listed here\n• Serious issues are handled via Discord tickets\n\n<RichColor Color=\"1,1,1,1\">Important</>\nThis page is only a quick overview of gameplay expectations.\n\nFull rules are available on our Discord and should be read before long-term play."
+            "text": "This is a PvE-focused, family-friendly cluster built around fair survival and community gameplay. Full rules are available on our Discord (link below).\n\n<RichColor Color=\"1,1,1,1\">Core PvE Rules</>\nThese are the most important rules while playing:\n• No player killing, raiding, griefing, or stealing\n• No luring wild dinos into other players’ bases\n• Respect other players’ builds and space\n• Do not block spawns, caves, resources, or travel routes\n\n<RichColor Color=\"1,1,1,1\">Fair Play</>\nTo keep progression balanced for everyone:\n• No cheating, exploits, meshing, or bug abuse\n• No handing out end-game gear or high-tier dinos\n• Trading is allowed if it is fair and like-for-like\n• Do not bypass intended progression systems\n\n<RichColor Color=\"1,1,1,1\">Building Rules</>\n• Do not pillar or foundation spam land\n• Keep bases reasonable and non-disruptive\n• Always build out of rendering distance from another player's base\n• Remove abandoned or temporary structures when done\n\n<RichColor Color=\"1,1,1,1\">Admin Notice</>\n• Staff decisions are final & rules apply even if not listed here\n• Serious issues are handled via Discord tickets\n\n<RichColor Color=\"1,1,1,1\">Important</>\nThis page is only a quick overview of gameplay expectations.\n\nFull rules are available on our Discord and should be read before long-term play."
           }
         ]
       },
@@ -42,19 +42,19 @@
         "content": [
           {
             "title": "<TextStyle.White>Maps</>",
-            "text": "This Cluster is currently equipped with 8x Maps:\n- Aberration\n- Astraeos\n- Extinction\n- Ragnarok\n- Scorched Earth\n- The Center\n- The Island\n- Valguero"
+            "text": "This Cluster is currently equipped with transferable 8x Maps:\n• Aberration\n• Astraeos\n• Extinction\n• Ragnarok\n• Scorched Earth\n• The Center\n• The Island\n• Valguero"
           },
           {
-            "title": "<TextStyle.Green>Auto-Decay System</>",
-            "text": "This cluster has auto-decay timers on all structures and tamed dinosaurs, currently aligned with Ark Official Rules:\n- Thatch : 4 days\n- Wood & Adobe : 8 Days\n- Stone : 12 days\n- Metal : 16 days\n- Vault: 16 days\n- Tek : 20-80 days"
+            "title": "<TextStyle.White>Auto-Decay System</>",
+            "text": "This cluster has auto-decay timers on all structures and tamed dinosaurs, currently aligned with Ark Official Rules:\n• Thatch : 4 days\n• Wood & Adobe : 8 Days\n• Stone : 12 days\n• Metal : 16 days\n• Vault: 16 days\n• Tek : 20-80 days"
           },
           {
-            "title": "<TextStyle.Yellow>News</>",
-            "text": "- Scheduled daily restart at 04:00 - 05:00\n- See #live-status Discord channel for server status"
+            "title": "<TextStyle.White>News</>",
+            "text": "• Scheduled daily restart at 05:00 - 06:00\n• See #live-status Discord channel for server status"
           },
           {
-            "title": "<TextStyle.Red>Emergency Notices</>",
-            "text": "- None"
+            "title": "<TextStyle.Orange>Emergency Notices</>",
+            "text": "• None"
           }
         ]
       }

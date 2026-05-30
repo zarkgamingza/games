@@ -15,7 +15,7 @@
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "<RichColor Color=\"1,0,0,1\">Start Here</>",
+        "buttontext": "Start Here",
         "imageurl": "",
         "content": [
           {
@@ -30,8 +30,8 @@
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "Rules Page 1",
-            "text": "- Be respectful: Any harassment, hate speech, toxic behavior or prejudiced comments of any kind, including sexism, racism, ageism, or homophobia / are not allowed.\n- No griefing: This includes, but not limited to foundation spamming, blocking resources, or trolling players.\n- No cheating: No exploiting glitches, bugs, or unintended mechanics.\n- Keep it clean: Tribe, player, dino & Steam names must follow PEGI 12 / ESRB Teen standards. We recommend keeping your in-game and Discord name the same. No duplicate player names / first come, first serve.\n- Keep it fair: Helping new players is welcome, but don’t spoil the game. No giving away high-level gear or dinos (e.g. Argy or higher). Giving OP dinos (250+ stats) may lead to a wipe or ban. Fair trades only.\n- Keep it consistent: Keep tribe names the same across the cluster, this is to help you in the event of a character corruption or any restore functions.\n- Build away from all key locations (e.g., obelisks, caves with artifacts, rare resource spawns and character spawns).\n- One main base per tribe, plus one outpost (e.g., farming or taming base).\n- No excessive land claiming, structures that go unused will be removed by Admins.\n- Keep bases optimized, limit unnecessary spam structures to reduce lag.\n- Do not build Vacuum Pods, they cause lag, map & character corruption (these will be removed by Admins without warning).\n- Do not block or cage high-level wild creatures for extended periods.\n- Keep breeding reasonable because it causes excessive dino hoarding and lag.\n- Any unwanted dinos should be responsibly disposed of.\n- Do not block or monopolize high-value resources (metal, crystal, oil, etc.).\n- No killing passive creatures that belong to other players.\n- Be mindful of community areas (such as teleporters, marketplaces, or public utilities).\n\nThese are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
+            "title": "<RichColor Color=\"1,1,1,1\">ZARK Gaming Rules</>",
+            "text": "This is a PvE-focused, family-friendly cluster built around fair survival and community gameplay.\n\nFull rules are available on our Discord (link below).\n\n<RichColor Color=\"1,1,1,1\">Core PvE Rules</>\nThese are the most important rules while playing:\n• No player killing, raiding, griefing, or stealing\n• No luring wild dinos into other players’ bases\n• Respect other players’ builds and space\n• Do not block spawns, caves, resources, or travel routes\n\n<RichColor Color=\"1,1,1,1\">Fair Play</>\nTo keep progression balanced for everyone:\n• No cheating, exploits, meshing, or bug abuse\n• No handing out end-game gear or high-tier dinos\n• Trading is allowed if it is fair and like-for-like\n• Do not bypass intended progression systems\n\n<RichColor Color=\"1,1,1,1\">Building Rules</>\n• Do not pillar or foundation spam land\n• Keep bases reasonable and non-disruptive\n• Always build out of rendering distance from another player's base\n• Remove abandoned or temporary structures when done\n\n<RichColor Color=\"1,1,1,1\">Admin Notice</>\n• Staff decisions are final & rules apply even if not listed here\n• Serious issues are handled via Discord tickets\n\n<RichColor Color=\"1,1,1,1\">Important</>\nThis page is only a quick overview of gameplay expectations.\n\nFull rules are available on our Discord and should be read before long-term play."
           }
         ]
       },

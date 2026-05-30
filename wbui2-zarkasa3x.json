@@ -46,11 +46,11 @@
         "content": [
           {
             "title": "<TextStyle.White>Maps</>",
-            "text": "This Cluster is currently equipped with transferable 8x Maps:\n• Aberration\n• Astraeos\n• Extinction\n• Ragnarok\n• Scorched Earth\n• The Center\n• The Island\n• Valguero"
+            "text": "This Cluster is currently equipped with transferable 8x Maps:\n\n• Aberration\n• Astraeos\n• Extinction\n• Ragnarok\n• Scorched Earth\n• The Center\n• The Island\n• Valguero"
           },
           {
             "title": "<TextStyle.White>Auto-Decay System</>",
-            "text": "This cluster has auto-decay timers on all structures and tamed dinosaurs, currently aligned with Ark Official Rules:\n• Thatch : 4 days\n• Wood & Adobe : 8 Days\n• Stone : 12 days\n• Metal : 16 days\n• Vault: 16 days\n• Tek : 20-80 days"
+            "text": "This cluster has auto-decay timers on all structures and tamed dinosaurs, currently aligned with Ark Official Rules:\n\n• Thatch : 4 days\n• Wood & Adobe : 8 Days\n• Stone : 12 days\n• Metal : 16 days\n• Vault: 16 days\n• Tek : 20-80 days"
           },
           {
             "title": "<TextStyle.White>News</>",

@@ -1,75 +1,87 @@
 {
-  "WBUI2":
-  {
-    "settings":
-    {
+  "WBUI2": {
+    "settings": {
       "openbutton": 0,
-      "hideicon": false,
+      "hideicon": true,
       "hideiconafter": 60,
-      "iconurl": "https://i.imgur.com/OZ6xOjY.png",
+      "iconurl": "",
       "disableicontext": false,
       "iconposition": 0,
       "icontextcolor": 0,
       "openonstart": true,
       "openonstartonlynewplayers": true,
-      "updateinterval": 12
+      "updateinterval": 1
     },
     "tabs": [
       {
         "layout": 1,
-        "buttontext": "Welcome",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "buttontext": "<RichColor Color=\"1,0,0,1\">Welcome</>",
+        "imageurl": "",
         "content": [
           {
-            "title": "Thanks for installing WBUI2!",
-            "text": "This mod is in an early stage.\nYou can expect bugs!\n\n\nThis UI is unedited. Pls contact an Admin.\n\nAre you an Admin?\nPls click on the buttons down below to get to the Wiki page for a setup guide. For Support pls join the discord\n\nYou can find a simple explanation in the settings tab."
+            "title": "Welcome to ZARKGaming!",
+            "text": "Oi, Survivors!\nWelcome to the ZARK Gaming Club, a family-friendly, dino-taming, base-building, poop-collecting paradise in the heart of South Africa!\n\nWe're absolutely raptor-ous to have you here. Our mission? Deliver the ultimate PvE experience without the griefers, chaos, or surprise T-Rex in your living room (unless you wanted one there).\n\nTo keep the island drama-free and the dinos happy, we've got a few house rules... nothing too wild, just enough to keep things civil while you ride your dino into the sunset.\n\nTake a minute (yes, even you with the itchy 'punch everything' finger) to read rules 1 to 3 above. Still confused? Need a hug? Or just want to tattle on someone who named their dodo 'Thanos'? An Admin is just a Discord ticket away.\n\nServer stats you actually want to read (Yes, really!):\n\n- Head on over to https://www.zarkgaming.co.za/ to see all our gaming servers\n- EXPERIMENTAL : We've introduced an AI into our helpdesk, checkout #ai-helpdesk and remember - be gentle :D\n- 3x Harvesting Rates : One swing and BOOM: you've got enough wood to build a small village (or an unnecessarily large toilet).\n- 220 Max Wild Dino Limit : More dinos than you can poke with a tranq arrow. Tame wisely. Or don't. We like chaos.\n- No Mods - just you and the wild!\n\nAnd more goodies we're too lazy to list but you'll definitely thank us for later.\n\nSo get out there – tame it, build it, explore it... or get eaten trying."
           }
         ]
       },
       {
-        "layout": 2,
-        "buttontext": "Settings",
+        "layout": 1,
+        "buttontext": "Rules 1 of 2",
         "imageurl": "https://i.imgur.com/mGt3cAF.png",
         "content": [
           {
-            "title": "INI settings:",
-            "text": "<TextStyle.LightBlue>Ini Header:</>\n\n\\[WBUI2]\n\n\nINI-Options:\n\nJsonURL=\"url\"  -  default: \"https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/default.json\"\n\nYou have to host the file as \"raw\" somewhere and enter the URL to it wrapped in \" \". You can use github (linked below). After uploading the file you'll find a button called \"raw\". click the button and copy the URL. Or use any other hosting site which offers linking to a raw JSON output.\n\nFor a more detailed instruction checkout the Wiki linked down below.\n\n\nYou can trigger an update of the JSON via console command:\ncheat scriptcommand WBUI2 update"
+            "title": "Rules Page 1",
+            "text": "- Be respectful: Any harassment, hate speech, toxic behavior or prejudiced comments of any kind, including sexism, racism, ageism, or homophobia / are not allowed.\n- No griefing: This includes, but not limited to foundation spamming, blocking resources, or trolling players.\n- No cheating: No exploiting glitches, bugs, or unintended mechanics.\n- Keep it clean: Tribe, player, dino & Steam names must follow PEGI 12 / ESRB Teen standards. We recommend keeping your in-game and Discord name the same. No duplicate player names / first come, first serve.\n- Keep it fair: Helping new players is welcome, but don’t spoil the game. No giving away high-level gear or dinos (e.g. Argy or higher). Giving OP dinos (250+ stats) may lead to a wipe or ban. Fair trades only.\n- Keep it consistent: Keep tribe names the same across the cluster, this is to help you in the event of a character corruption or any restore functions.\n- Build away from all key locations (e.g., obelisks, caves with artifacts, rare resource spawns and character spawns).\n- One main base per tribe, plus one outpost (e.g., farming or taming base).\n- No excessive land claiming, structures that go unused will be removed by Admins.\n- Keep bases optimized, limit unnecessary spam structures to reduce lag.\n- Do not build Vacuum Pods, they cause lag, map & character corruption (these will be removed by Admins without warning).\n- Do not block or cage high-level wild creatures for extended periods.\n- Keep breeding reasonable because it causes excessive dino hoarding and lag.\n- Any unwanted dinos should be responsibly disposed of.\n- Do not block or monopolize high-value resources (metal, crystal, oil, etc.).\n- No killing passive creatures that belong to other players.\n- Be mindful of community areas (such as teleporters, marketplaces, or public utilities).\n\nThese are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
+          }
+        ]
+      },
+      {
+        "layout": 1,
+        "buttontext": "Rules 2 of 2",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "Rules Page 2",
+            "text": "- Trade fairly, avoid sharing high-value items with new players.\n- Help new players by offering guidance, not just free items.\n- Report any exploits to Admins.\n- Respect Admin decisions, do not spam complaints or harass staff.\n- Support is offered on a best-effort-basis. Our Admins typically work during the day, but will be able to assist in the evenings or weekends.\n- Use the Discord ticket system (#tickets) for issues and bug reports.\n- Cheating, exploiting, or abusing mechanics will result in immediate action.\n- No AFK farming, excessive auto-clicking, or macro abuse.\n- Automated farms (e.g. gachas, dung beetles & seed farms) are allowed.\n- Dino Breeding farms must be supervised or Dinos soul-balled to avoid lag.\n\nThese are only the highlights of our rules. See detailed rules at #Rules on our Discord channel below. By continuing, you acknowledge you have read and understand all rules."
+          }
+        ]
+      },
+      {
+        "layout": 4,
+        "buttontext": "Cluster Configration",
+        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "content": [
+          {
+            "title": "<TextStyle.White>Maps</>",
+            "text": "This Cluster is currently equipped with 8x Maps:\n- Aberration\n- Astraeos\n- Extinction\n- Ragnarok\n- Scorched Earth\n- The Center\n- The Island\n- Valguero"
           },
           {
-            "title": "JSON settings:",
-            "text": "OpenButton  -  0/1/2/3/4/5/6, default:0, 0=F1, 1=F2, 2=F3, 3=F4, 4=F5, 5=Delete, 6=Home  -  Determines the button the player needs to press to open the UI.\n\nHideIcon  -  true/false, default: false  -  If true the Icon in the bottom left corner vanishes after some time.\n\nHideIconAfter  -  integer, default: 60  -  Determines after how many seconds the Icon vanishes.\n\nIconURL  -  \"URL\", default: \"https://i.imgur.com/OZ6xOjY.png\"  -  You can upload a custom image somewhere (e.g. imgur, link down below) and it will be used as the Icon in the bottom left.\n\nDisableIconText  -  true/false, default:false  -  If true the text \"F1 for Info\" will not be displayed.\n\nIconPosition  -  0/1/2/3, default:0, 0=Top Left, 1=Top Right, 2=Bottom Right, 3=Bottom Left  -  Set the position of the Icon.\n\nIconTextColor  -  0/1/2/3/4/5/6/7/8, default:0, 0=Light Blue, 1=Red, 2=Green, 3=Blue, 4=Yellow, 5=Orange, 6=Violet, 7=Black, 8=White  -  Sets the color of the \"F1 For Info\" text.\n\nOpenOnStart  -  true/false, default: true  -  If true the UI will open automatically after the player spawned.\n\nOpenOnStartOnlyNewPlayers  -  true/false, default: true  -  If true the UI only opens automatically the first time the player spawns on the server.\n\nUpdateInterval  -  integer, default: 12  -  This value determines the time in hours the mod automatically pulls the JSON from the URL to update settings.\n\nGENERAL INFORMATION:\n\n\nFor the rest of the settings pls checkout the Wiki or the example JSON linked down below.\n\nIn order to pass the JSON-validation you have to use \"*backslash*n\" without a space to generate newlines. although the mod should handle regular newlines just fine.\n\nSpecial characters like \" have to be escaped with a *backslash*\n\nYou can trigger an update of the JSON via console command: \"cheat scriptcommand WBUI2 update\"\n\nBe careful with the file size of the images. The user have to download the images."
+            "title": "<TextStyle.Green>Auto-Decay System</>",
+            "text": "This cluster has auto-decay timers on all structures and tamed dinosaurs, currently aligned with Ark Official Rules:\n- Thatch : 4 days\n- Wood & Adobe : 8 Days\n- Stone : 12 days\n- Metal : 16 days\n- Vault: 16 days\n- Tek : 20-80 days"
+          },
+          {
+            "title": "<TextStyle.Yellow>News</>",
+            "text": "- Scheduled daily restart at 04:00 - 05:00\n- See #live-status Discord channel for server status"
+          },
+          {
+            "title": "<TextStyle.Red>Emergency Notices</>",
+            "text": "- None"
           }
         ]
       }
     ],
     "links": [
       {
-        "text": "Discord",
-        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+        "text": "Join our Discord",
+        "url": "https://discord.com/invite/TTf4zx9"
       },
       {
-        "text": "Wiki",
-        "url": "https://wiki.wbui2.de"
+        "text": "Open a ticket",
+        "url": "https://discord.com/channels/707280164664639558/852267257908428820"
       },
       {
-        "text": "CurseForge",
-        "url": "https://www.curseforge.com/ark-survival-ascended/mods/wbui2"
-      },
-      {
-        "text": "JSON-Validator",
-        "url": "https://jsonlint.com"
-      },
-      {
-        "text": "Github",
-        "url": "https://github.com"
-      },
-      {
-        "text": "Imgur",
-        "url": "https://imgur.com"
-      },
-      {
-        "text": "Example JSON",
-        "url": "https://raw.githubusercontent.com/DC-Modding/WBUI2-Wiki/main/example.json"
+        "text": "Active Events",
+        "url": "https://discord.com/channels/707280164664639558/814603962946420746"
       }
     ],
     "version": 2

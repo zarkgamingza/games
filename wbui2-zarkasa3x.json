@@ -27,10 +27,10 @@
       {
         "layout": 2,
         "buttontext": "Rules (Summary)",
-        "imageurl": "https://i.imgur.com/mGt3cAF.png",
+        "imageurl": "",
         "content": [
           {
-            "title": "<RichColor Color=\"1,1,1,1\">ZARK Gaming Rules</>",
+            "title": "<RichColor Color=\"1,1,1,1\">Cluster Rules</>",
             "text": "This is a PvE-focused, family-friendly cluster built around fair survival and community gameplay. Full rules are available on our Discord (link below).\n\n<RichColor Color=\"1,1,1,1\">Core PvE Rules</>\nThese are the most important rules while playing:\n• No player killing, raiding, griefing, or stealing\n• No luring wild dinos into other players’ bases\n• Respect other players’ builds and space\n• Do not block spawns, caves, resources, or travel routes\n\n<RichColor Color=\"1,1,1,1\">Fair Play</>\nTo keep progression balanced for everyone:\n• No cheating, exploits, meshing, or bug abuse\n• No handing out end-game gear or high-tier dinos\n• Trading is allowed if it is fair and like-for-like\n• Do not bypass intended progression systems\n\n<RichColor Color=\"1,1,1,1\">Building Rules</>\n• Do not pillar or foundation spam land\n• Keep bases reasonable and non-disruptive\n• Always build out of rendering distance from another player's base\n• Remove abandoned or temporary structures when done\n\n"
           },
           {

@@ -54,7 +54,7 @@
           },
           {
             "title": "<TextStyle.White>News</>",
-            "text": "• Scheduled daily restart at 04:00 - 05:00\n• See #live-status Discord channel for server status"
+            "text": "• Commands supported in Global Chat - /upload, /download, /ShadowLink xxxx-xxxx\n• Scheduled daily restart at 04:00 - 05:00\n• See #live-status Discord channel for server status"
           },
           {
             "title": "<TextStyle.Orange>Emergency Notices</>",

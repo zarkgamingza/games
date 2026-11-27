@@ -54,11 +54,11 @@
           },
           {
             "title": "<TextStyle.White>News</>",
-            "text": "• Commands supported in Global Chat - /upload, /download, /ShadowLink xxxx-xxxx\n• Scheduled daily restart at 04:00 - 05:00\n• See #live-status Discord channel for server status"
+            "text": "• Last Wipe: 27 November 2026\n• Commands supported in Global Chat - /upload, /download, /ShadowLink xxxx-xxxx\n• Scheduled daily restart at 04:00 - 05:00\n• See #live-status Discord channel for server status"
           },
           {
             "title": "<TextStyle.Orange>Emergency Notices</>",
-            "text": "• MAJOR UPDATE: Unreal Engine 5.8 Update scheduled 28 October 2026. ZARK Clusters may be offline until all updates & patches have been tested and applied."
+            "text": ""
           }
         ]
       }
